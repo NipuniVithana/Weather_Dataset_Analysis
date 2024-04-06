@@ -9,3 +9,11 @@ The weather dataset used in this project is a time-series dataset that provides 
 * Wind Speed: The speed of the wind at each hour.
 * Visibility: The distance at which an object can be clearly seen
 * Conditions: Descriptive labels indicating the weather conditions at each hour, such as "Clear," "Cloudy," "Rainy," etc.
+## Analysis
+The analysis of the weather dataset involves exploring the relationships between different weather parameters, identifying trends over time, and deriving insights into weather patterns and fluctuations.
+## Tools Used
+* Python: The primary programming language used for data analysis and visualization
+* Pandas: Used for data manipulation and analysis.
+* Jupyter Notebook: The analysis and visualization tasks were performed in Jupyter Notebooks, allowing for an interactive and exploratory workflow.
+## Conclusion
+Through the analysis of the weather dataset, valuable insights into weather patterns and trends have been gained. This project demonstrates the power of data analysis and visualization techniques in understanding complex datasets and extracting meaningful information.
